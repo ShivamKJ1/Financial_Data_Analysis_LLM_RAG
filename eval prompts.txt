@@ -1,0 +1,77 @@
+ 1. ('What was the Income from Continuing Operations before Taxes of MICROSOFT CORP in 2016 Q3?',
+  'The Income from Continuing Operations before Taxes of MICROSOFT CORP in 2016 Q3 was $5,325,000,000.'),
+
+ 2. ('What was the Total Equity of NETFLIX INC in 2016 Q3?',
+  'The Total Equity of NETFLIX INC in 2016 Q3 was $2,528,966,000.'),
+
+ 3. ('What was the Total Liabilities and Equity of LUMINEX CORP in 2015 Q2?',
+  'The Total Liabilities and Equity of LUMINEX CORP in 2015 Q2 was $369,032,000.'),
+
+ 4. ('What was the Operating Income (Loss) of NETFLIX INC in 2015 Q1?',
+  'The Operating Income (Loss) of NETFLIX INC in 2015 Q1 was $97,456,000.'),
+
+ 5. ('What was the Cash and Cash Equivalents, at Carrying Value of Recon Technology, Ltd in 2015 Q2?',
+  'The Cash and Cash Equivalents, at Carrying Value of Recon Technology, Ltd in 2015 Q2 was $1,857,964.'),
+
+ 6. ('What was the Total Liabilities and Equity of DAWSON GEOPHYSICAL CO in 2016 Q2?',
+  'The Total Liabilities and Equity of DAWSON GEOPHYSICAL CO in 2016 Q2 was $215,555,000.'),
+
+ 7. ('What was the Gross Profit of Recon Technology, Ltd in 2016 Q2?',
+  'The Gross Profit of Recon Technology, Ltd in 2016 Q2 was $-123,954.'),
+
+ 8. ('What was the Total Equity of NETFLIX INC in 2014 Q2?',
+  'The Total Equity of NETFLIX INC in 2014 Q2 was $1,609,705,000.'),
+
+ 9. ('What was the Assets of TUCOWS INC /PA/ in 2015 Q2?',
+  'The Assets of TUCOWS INC /PA/ in 2015 Q2 was $139,297,190.'),
+
+ 10. ('What was the Cash and Cash Equivalents, at Carrying Value of DAWSON GEOPHYSICAL CO in 2016 Q1?',
+  'The Cash and Cash Equivalents, at Carrying Value of DAWSON GEOPHYSICAL CO in 2016 Q1 was $30,378,000.'),
+
+ 11. ('What was the Assets of Recon Technology, Ltd in 2015 Q1?',
+  'The Assets of Recon Technology, Ltd in 2015 Q1 was $160,981,515.'),
+
+ 12. ('What was the Cash and Cash Equivalents, at Carrying Value of Xenith Bankshares, Inc. in 2015 Q3?',
+  'The Cash and Cash Equivalents, at Carrying Value of Xenith Bankshares, Inc. in 2015 Q3 was $26,749,000.'),
+
+ 13. ('What was the Income from Continuing Operations before Taxes of NETFLIX INC in 2014 Q2?',
+  'The Income from Continuing Operations before Taxes of NETFLIX INC in 2014 Q2 was $117,372,000.'),
+
+ 14. ('What was the Cash and Cash Equivalents, at Carrying Value of NETFLIX INC in 2015 Q1?',
+  'The Cash and Cash Equivalents, at Carrying Value of NETFLIX INC in 2015 Q1 was $2,454,777,000.'),
+
+ 15. ('What was the Gross Profit of Recon Technology, Ltd in 2015 Q4?',
+  'The Gross Profit of Recon Technology, Ltd in 2015 Q4 was $5,762,679.'),
+
+16. Which year saw the largest increase in total equity for 1ST SOURCE CORP?
+
+17. Has the 2U, Inc. 's total liabilities increased or decreased between 2014 and 2016?
+
+18. Is the 3D MAKERJET’s cash position improving, and how might that impact future investments?
+
+19. Has there been any quarter with negative net income AAON INC between 2014 to 2016? If so, when?
+
+20. How did ALIGN TECHNOLOGY INC perform during Q4s compared to other quarters?
+
+21. What is bluebird bio, Inc. average quarterly growth in assets between 2014 to 2016?
+
+22. Calculate the percentage change in total liabilities from 2014 Q1 to 2016 Q4 of China Biologic Products Holdings, Inc.
+
+23. If you were to forecast COGNIZANT TECHNOLOGY SOLUTIONS CORP's next quarter’s net income, what would your estimate be based on the current trends?
+
+24. In which quarter between 2014 and 2026 did HANDY & HARMAN LTD. have the highest income from continuing operations before taxes?
+
+25. What is the correlation between total assets and final revenue?
+
+26. Compare net income for Q1 across years 2014, 2015 and 2016 for company Hudson Global, Inc. .
+
+27. What risks are indicated by Jensyn Acquisition Corp. liabilities trend from 2014 to 2016?
+
+28. What was the best performing quarter overall based on multiple indicators for LUMINEX CORP?
+
+
+Rouge-L and BertScore
+
+
+
+
